@@ -103,7 +103,8 @@ project/
 └── data/
     └── raw/
 ```
-![alt text](image-1.png)
+<img width="406" height="744" alt="image" src="https://github.com/user-attachments/assets/4a3398f1-0472-4daf-a7ad-b70471c6730a" />
+
 
 ## Tech Stack
 
