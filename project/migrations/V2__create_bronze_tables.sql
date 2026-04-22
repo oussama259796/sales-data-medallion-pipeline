@@ -10,4 +10,3 @@ CREATE TABLE bronze.orders_raw (
     total_amount DECIMAL(10, 2),
     status VARCHAR(50)
 );
-SELECT * FROM bronze.orders_raw;

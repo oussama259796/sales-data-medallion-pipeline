@@ -31,15 +31,3 @@ CREATE TABLE gold.sales_by_status (
     total_revenue DECIMAL(15, 2)
 );
 
-SELECT * FROM gold.sales_by_city;
-SELECT * FROM gold.sales_by_product;
-SELECT * FROM gold.sales_by_day;
-SELECT * FROM gold.sales_by_customer;
-SELECT * FROM gold.sales_by_status;
-
-
-TRUNCATE TABLE gold.sales_by_city;
-TRUNCATE TABLE gold.sales_by_product;   
-TRUNCATE TABLE gold.sales_by_day;
-TRUNCATE TABLE gold.sales_by_customer;
-TRUNCATE TABLE gold.sales_by_status;

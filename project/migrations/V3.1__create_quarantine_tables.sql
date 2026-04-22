@@ -12,4 +12,3 @@ CREATE TABLE IF NOT EXISTS silver.orders_rejected (
     rejected_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(50));
 
-SELECT * FROM silver.orders_rejected;

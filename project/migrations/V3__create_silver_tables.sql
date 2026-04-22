@@ -11,7 +11,3 @@ CREATE TABLE silver.orders_cleaned (
     status VARCHAR(50)
 );
 
-cd project; py -m pipelines.transform.bronze_to_silver
-
-
-select * from silver.orders_cleaned;
