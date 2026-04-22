@@ -52,6 +52,7 @@ This pipeline was tested on a real dataset and produced the following results:
 - **64,992 invalid rows** detected and separated
 - **132,290 clean rows** loaded into the final clean table
 - full pipeline completed in **about 16 seconds**
+<img width="1088" height="844" alt="image" src="https://github.com/user-attachments/assets/0200576a-b1ca-4890-91ba-f562276cdfc3" />
 
 ## Why This Matters
 
